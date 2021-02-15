@@ -1,0 +1,10 @@
+componentwillreceiveprops
+shouldcomponetupdate
+componetwillupdate
+remder  
+componentdidupdate
+
+
+componentwill mount 
+component mount
+comonnet did mount
